@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UrieLBadilloG
-- 👀 I’m interested in  el machine learning ,  artificial intelligence and web development
+- 👀 I’m interested in  cloud computing ,  artificial intelligence and web development
 - Twitter :@ubadillo31
 - Instagram: @u.badillo
 - Linkedin: Uriel Badillo Garrido       
